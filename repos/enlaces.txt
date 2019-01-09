@@ -1,5 +1,42 @@
-Aire: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=aecb88a7e2b73410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default>
+CALIDAD DE AIRE EN MADRID (MORATALAZ) Y SU RELACIÓN CON EL TRÁFICO
 
-Trafico: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=33cb30c367e78410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+Datos tráfico:
+==============================================
 
-Ubicacion puntos de medida tráfico: https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=ee941ce6ba6d3410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD11
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=33cb30c367e78410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+
+Calidad del aire:
+==============================================
+
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=aecb88a7e2b73410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default>
+
+Ubicación puntos trafico:
+==============================================
+
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=ee941ce6ba6d3410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD
+
+Estaciones de control de la calidad del aire:
+==============================================
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=9e42c176313eb410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+
+
+DATA CURATION BARCELONA
+
+Datos tráfico:
+==============================================
+http://opendata-ajuntament.barcelona.cat/data/es/dataset/trams
+
+Calidad del aire:
+==============================================
+http://opendata-ajuntament.barcelona.cat/data/es/dataset/qualitat-aire-detall-bcn
+
+Ubicación puntos tráfico:
+==============================================
+http://opendata-ajuntament.barcelona.cat/data/ca/dataset/transit-relacio-trams/resource/036bfde0-b73e-4cb9-93db-5785f032ab68
+
+
+Estaciones de control de calidad del aire:
+==============================================
+http://opendata-ajuntament.barcelona.cat/data/es/dataset/qualitat-aire-estacions-bcn
+
+
