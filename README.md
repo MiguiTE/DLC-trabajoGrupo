@@ -1,6 +1,6 @@
-# Trabajo en Grupo DLC
+# Calidad del aire y tráfico en Madrid y Barcelona
 
-## Calidad del aire y tráfico en el centro de Madrid
+### Integrantes: Julia, Miguel, Razvan, Carlos, Elsa, Álvaro.
 
-### Integrantes: Julia, Miguel, Razvan, Carlos, Elsa, Álvaro (Carlos para los amigos).
-
+### Estructura repositorio
+![](grafoDirectorio.png)
